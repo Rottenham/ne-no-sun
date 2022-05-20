@@ -1,4 +1,4 @@
-# NE无花挂机
+# NE无花 挂机
 
 ## 阵设说明
 （参考自https://www.bilibili.com/video/BV11U4y117jC）<br>
