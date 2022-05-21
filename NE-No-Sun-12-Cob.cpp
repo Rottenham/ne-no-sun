@@ -161,7 +161,7 @@ void Script()
     for (int wave : {10})
     {
         SetTime(410 - 373, wave);
-        pao_operator.pao(2, 9);
+        pao_operator.pao(2, 9.1);
         SetTime(466 - 373);
         pao_operator.pao(4, 8.5);
         SetTime(467);
